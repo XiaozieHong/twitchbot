@@ -1,2 +1,2 @@
 # twitchbot
-my silly bot, huahuahua!
+Xiaozie's twitch chat bot. 
